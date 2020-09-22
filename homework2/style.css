@@ -1,0 +1,22 @@
+.navbar{
+    justify-content: center;
+
+}
+
+body{
+    background-color: lightblue;
+
+}
+.bio{
+    margin: 10px;
+}
+.sideshot{
+    float: left;
+    margin: 20px;
+}
+.list{
+    margin: 40px;
+    list-style: none;
+    align-content: center;
+}
+
